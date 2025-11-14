@@ -3,7 +3,7 @@
 **Self-taught Full-stack Web Developer from Iran**  
 I love transforming complex problems into simple and elegant solutions, both in design and code. I have **6+ years of experience** in web development, working on large-scale, modular, and high-performance projects.  
 
-Currently, I'm working at **[Asr Dade Raga](https://raga.code)** on a **Multi-Vendor E-Commerce platform**, developing a modern, decoupled frontend-backend architecture using the latest technologies.  
+Currently, I'm working at **[Asr Dade Raga](https://adr.co.ir)** on a **Multi-Vendor E-Commerce platform**, developing a modern, decoupled frontend-backend architecture using the latest technologies.  
 
 ---
 
