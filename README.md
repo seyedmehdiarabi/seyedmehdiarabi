@@ -1,89 +1,84 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&vCenter=true&width=600&lines=Software+Engineer;Technical+Lead;Digital+Product+Builder;AI%2FNLP+Researcher" alt="Typing SVG" />
+# ✦ Seyed Mahdi Arabi ✦
+## Systems Architect & Digital Product Builder
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=✦+Software+Engineer+✦;✦+Technical+Lead+✦;✦+Digital+Product+Builder+✦;✦+AI%2FNLP+Researcher+✦" alt="Typing SVG" />
 </p>
 
-<h1 align="left">
-  Hey, I'm Seyed Mahdi Arabi 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
+  Hey, I'm Seyed Mahdi Arabi
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="45" height="45" />
 </h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Software_Engineer-007ACC?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technical_Lead-6DB33F?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital_Product_Builder-FF6F00?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FNLP_Researcher-8B0000?style=for-the-badge&logo=shield&logoColor=white" />
+<p align="center">
+  <!-- Gradient Buttons – Creative Design -->
+  <a href="#"><img src="https://img.shields.io/badge/✦_Software_Engineer-6C63FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=4A3F8A" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/✦_Technical_Lead-FF6B9D?style=for-the-badge&logo=go&logoColor=white&labelColor=C74C7A" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/✦_Digital_Product_Builder-FFD700?style=for-the-badge&logo=terraform&logoColor=black&labelColor=CC9900" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/✦_AI%2FNLP_Researcher-00D4FF?style=for-the-badge&logo=shield&logoColor=black&labelColor=0099CC" /></a>
 </p>
-
-<br />
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
+```text
+✦ Systems-first mindset  |  Analytical Score: 48/50
+✦ Core Path: Software Engineering + Product Development + AI/NLP
+✦ Security by Design (not an afterthought)
+✦ Builder of complex, reliable, real-world systems
+✦ In the industry since 2004  |  Professional dev since 2019
+✦ M.Sc. in Computer Engineering – Software
+✦ Published Author & Licensed Publisher
 ```
-⚡ Systems-first mindset  |  Analytical Score: 48/50
-🔧 Core Path: Software Engineering + Product Development + AI/NLP
-🛡️ Security by Design (not an afterthought)
-🚀 Builder of complex, reliable, real-world systems
-📅 In the industry since 2004  |  Professional dev since 2019
-🎓 M.Sc. in Computer Engineering – Software
-📚 Published Author & Licensed Publisher
-```
 
-> *"Good software is not only code that works. It must be understandable, maintainable, extensible, testable, documented, and aligned with the business problem."*
+> <span style="color:#6C63FF;">“Good software is not only code that works. It must be understandable, maintainable, extensible, testable, documented, and aligned with the business problem.”</span>
 
-> *Motto: "Build systems. Solve problems. Create products. Keep learning."*
-
-<br />
+> **Motto:** *“Build systems. Solve problems. Create products. Keep learning.”*
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me – Creative Buttons
 
-<p align="left">
-  <a href="https://github.com/seyedmehdiarabi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seyedmehdiarabi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/raga_web"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:info@adr.co.ir"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/seyedmehdiarabi"><img src="https://img.shields.io/badge/𝔾𝕚𝕥ℍ𝕦𝕓-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748" /></a>
+  <a href="https://www.linkedin.com/in/seyedmehdiarabi/"><img src="https://img.shields.io/badge/𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004080" /></a>
+  <a href="https://www.instagram.com/raga_web"><img src="https://img.shields.io/badge/𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=BC2A4A" /></a>
+  <a href="mailto:info@adr.co.ir"><img src="https://img.shields.io/badge/𝔼𝕞𝕒𝕚𝕝-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB2D25" /></a>
+  <a href="https://adr.co.ir"><img src="https://img.shields.io/badge/ℝ𝕒𝕘𝕒_𝕎𝕖𝕓-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=CC5500" /></a>
 </p>
-
-<br />
 
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyedmehdiarabi&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyedmehdiarabi&theme=vue&bg_color=0D1117&color=6C63FF&line=FF6B9D&point=FFD700&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-
-<br />
 
 ---
 
 ## 🧠 The System Builder's Arsenal
 
-I am not a scattered learner. I am an **architect and builder of sustainable systems**.  
-The tools listed here aren't for show—they are carefully curated for **building, connecting, and optimizing** real‑world platforms.
+> I am not a scattered learner. I am an **architect and builder of sustainable systems**.
+> The tools listed here aren't for show—they are carefully curated for **building, connecting, and optimizing** real‑world platforms.
 
----
-
-### ⚙️ Core Specialization (The Main Path)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Software_Engineering-6DB33F?style=for-the-badge&logo=backend&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product_Development-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FNLP_Research-8B0000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<details>
+<summary><b>⚙️ Core Specialization (The Main Path)</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-6C63FF?style=for-the-badge&logo=backend&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge&logo=architecture&logoColor=black" />
+  <img src="https://img.shields.io/badge/Product_Development-FF6B9D?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FNLP_Research-00D4FF?style=for-the-badge&logo=tensorflow&logoColor=black" />
 </p>
+</details>
 
-> This is my **professional identity**. Everything else serves these pillars.
-
----
-
-### 🖥️ Backend & API Development
-
-<p align="left">
+<details>
+<summary><b>🖥️ Backend & API Development</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -95,12 +90,12 @@ The tools listed here aren't for show—they are carefully curated for **buildin
 - **Database:** MySQL, with strong design & optimisation skills.
 - **API Design:** RESTful, versioned, documented (Swagger/OpenAPI).
 - **Architecture:** Modular, event‑driven, multi‑tenant ready.
+</details>
 
----
-
-### 🖌️ Frontend & UI Engineering
-
-<p align="left">
+<details>
+<summary><b>🖌️ Frontend & UI Engineering</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
@@ -111,12 +106,12 @@ The tools listed here aren't for show—they are carefully curated for **buildin
 - **Frontend:** Vue 3 + Nuxt 3 (SSR, component‑based).
 - **Styling:** Tailwind CSS for rapid, consistent UI.
 - **State & Logic:** Composition API, reusable components.
+</details>
 
----
-
-### 🐧 Infrastructure & DevOps
-
-<p align="left">
+<details>
+<summary><b>🐧 Infrastructure & DevOps</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
@@ -128,25 +123,25 @@ The tools listed here aren't for show—they are carefully curated for **buildin
 - **Web Servers:** Nginx & Apache.
 - **Deployment:** cPanel, PM2, cron jobs, proxy setups.
 - **CI/CD:** GitHub Actions for automation.
+</details>
 
----
-
-### 🔐 Security & Networking (Layer, not Identity)
-
-<p align="left">
+<details>
+<summary><b>🔐 Security & Networking (Layer, not Identity)</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Network_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Security-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/TLS%2FSSL-8800AA?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-> Security is an **architectural layer** for me, not a standalone identity.  
+> Security is an **architectural layer** for me, not a standalone identity.
 > My networking knowledge enables me to design **resilient, reliable, and secure** systems from the ground up.
+</details>
 
----
-
-### 🤖 AI & NLP Research (The Complementary Layer)
-
-<p align="left">
+<details>
+<summary><b>🤖 AI & NLP Research (The Complementary Layer)</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Natural_Language_Processing-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Information_Retrieval-4EAA25?style=for-the-badge&logo=elasticsearch&logoColor=white" />
@@ -154,35 +149,36 @@ The tools listed here aren't for show—they are carefully curated for **buildin
 </p>
 
 > I leverage AI as a tool for **intelligent automation**, **pattern analysis**, and **decision support**—not as my primary domain, but as an enhancer for my systems and products.
+</details>
 
----
-
-### 🧭 Project Management & System Architecture (The Strategic Layer)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/System_Architecture-FF6F00?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project_Management-2C3E50?style=for-the-badge&logo=project&logoColor=white" />
-  <img src="https://img.shields.io/badge/Structure_Design-0078D4?style=for-the-badge&logo=structure&logoColor=white" />
+<details>
+<summary><b>🧭 Project Management & System Architecture (The Strategic Layer)</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Architecture-FFD700?style=for-the-badge&logo=code&logoColor=black" />
+  <img src="https://img.shields.io/badge/Project_Management-6C63FF?style=for-the-badge&logo=project&logoColor=white" />
+  <img src="https://img.shields.io/badge/Structure_Design-FF6B9D?style=for-the-badge&logo=structure&logoColor=white" />
 </p>
 
 > My ability to **see the whole system**, design **durable structures**, and coordinate teams is what turns ideas into execution.
+</details>
 
 ---
 
 ## 🏢 Raga — Asr Data Raga
 
-<p align="left">
+<p align="center">
   <a href="https://adr.co.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Asr_Data_Raga-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/✦_Asr_Data_Raga_✦-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF" />
   </a>
 </p>
 
-**Asr Data Raga** is a technology company focused on building sustainable, intelligent, and impactful digital products.  
+**Asr Data Raga** is a technology company focused on building sustainable, intelligent, and impactful digital products.
 As **Founder & CEO**, I lead the development of the **RAGA Multi‑Vendor Commerce Platform** — a modular, API‑driven marketplace built with Laravel & Nuxt.
 
-<center>
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/296162600?s=200&v=4" alt="Raga Logo" width="150" />
-</center>
+</p>
 
 **RAGA Platform Capabilities:**
 
@@ -195,12 +191,6 @@ As **Founder & CEO**, I lead the development of the **RAGA Multi‑Vendor Commer
 - Multi‑Tenant Architecture (conceptual)
 
 > *“Raga is where ideas transform into architecture, and architecture transforms into lasting digital products.”*
-
----
-
-> **Reminder:** This list is not a display of scattered knowledge.  
-> Every tool has its place, serving **System Architecture**, **Sustainability**, and **Real‑World Impact**.  
-> My path is **building**, not collecting.
 
 ---
 
@@ -227,7 +217,7 @@ Every project I build must:
 
 ### CHAIR — Persian Information Retrieval
 
-My Master's research focused on improving information retrieval for **Persian question answering systems**.  
+My Master's research focused on improving information retrieval for **Persian question answering systems**.
 The framework **CHAIR** (Contextual Hybrid Artificial Intelligence Retrieval) combines:
 
 - BM25 (lexical)
@@ -250,9 +240,9 @@ Goal: move beyond chat interfaces into **useful, integrated decision‑support c
 
 ### 📚 Author & Publisher
 
-**زبان سوم: چگونه با کلمات هوش مصنوعی را هدایت کنیم؟**  
-( *Language Three: How to Guide Artificial Intelligence with Words* )  
-- Published in 2024 | 144 pages | 1st edition: 500 copies  
+**زبان سوم: چگونه با کلمات هوش مصنوعی را هدایت کنیم؟**
+( *Language Three: How to Guide Artificial Intelligence with Words* )
+- Published in 2024 | 144 pages | 1st edition: 500 copies
 - Registered with the National Library of Iran
 
 In progress:
@@ -263,20 +253,20 @@ In progress:
 
 ## 🎓 Education & Professional Highlights
 
-- **M.Sc. in Computer Engineering – Software**  
-  Payame Noor University, Tehran North Center (2019–2026)  
-  *Thesis: Search Engine Optimization for Improving the Accuracy of Results in Persian Language Question Answering*  
+- **M.Sc. in Computer Engineering – Software**
+  Payame Noor University, Tehran North Center (2019–2026)
+  *Thesis: Search Engine Optimization for Improving the Accuracy of Results in Persian Language Question Answering*
   **Defense result: Excellent**
 
-- **B.Sc. in Computer Engineering**  
+- **B.Sc. in Computer Engineering**
   Payame Noor University, Torbat‑e Heydarieh (2017–2020)
 
-- **22+ years** of experience in IT (since 2004)  
-- **7+ years** of professional software development (since 2019)  
-- **Founder & CEO** of Asr Data Raga  
-- **Technical lead** of the RAGA Multi‑Vendor Commerce Platform  
-- **7+ web/software projects** delivered since 2019  
-- **Managed & trained ~30 people** throughout career  
+- **22+ years** of experience in IT (since 2004)
+- **7+ years** of professional software development (since 2019)
+- **Founder & CEO** of Asr Data Raga
+- **Technical lead** of the RAGA Multi‑Vendor Commerce Platform
+- **7+ web/software projects** delivered since 2019
+- **Managed & trained ~30 people** throughout career
 - Currently mentoring **8 interns** (problem‑solving, engineering mindset, documentation, career development)
 
 ---
@@ -294,7 +284,7 @@ In progress:
 
 ---
 
-## 📌 Pinned Repositories (Native GitHub Design)
+## 📌 Pinned Repositories
 
 > 💡 Navigate to your GitHub Profile Settings > "Pinned" and pin your top 6 repositories. They will automatically appear natively above this README, creating a perfect GitHub dashboard look.
 
@@ -303,23 +293,29 @@ In progress:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmehdiarabi&theme=onedark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmehdiarabi&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=seyedmehdiarabi&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyedmehdiarabi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
-
-<br />
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=seyedmehdiarabi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seyedmehdiarabi&label=✦+Profile+Views+✦&color=6C63FF&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="left">
+<p align="center">
   <b>
-    <i>"If no light appears in darkness, maybe you are the light."</i>
+    <i>“If no light appears in darkness, maybe you are the light.”</i>
   </b>
   <br>
-  <sub>Software Engineer | Technical Lead | Digital Product Builder | AI/NLP Researcher</sub>
+  <sub>✦ Software Engineer ✦ Technical Lead ✦ Digital Product Builder ✦ AI/NLP Researcher ✦</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" />
 </p>
