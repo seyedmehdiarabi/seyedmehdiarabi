@@ -20,7 +20,6 @@
 ## ⚡ About Me
 
 ```text
-✦ Systems-first mindset  |  Analytical Score: 48/50
 ✦ Core Path: Software Engineering + Product Development + AI/NLP
 ✦ Security by Design (not an afterthought)
 ✦ Builder of complex, reliable, real-world systems
