@@ -161,7 +161,7 @@
 
 ---
 
-## 🏢 Raga — Asr Data Raga
+## 🏢 Raga — Asr Dade Raga
 
 <p align="center">
   <a href="https://adr.co.ir" target="_blank">
@@ -169,7 +169,7 @@
   </a>
 </p>
 
-**Asr Data Raga** is a technology company focused on building sustainable, intelligent, and impactful digital products.
+**Asr Dade Raga** is a technology company focused on building sustainable, intelligent, and impactful digital products.
 As **Founder & CEO**, I lead the development of the **RAGA Multi‑Vendor Commerce Platform** — a modular, API‑driven marketplace built with Laravel & Nuxt.
 
 <p align="center">
@@ -259,7 +259,7 @@ In progress:
 
 - **22+ years** of experience in IT (since 2004)
 - **7+ years** of professional software development (since 2019)
-- **Founder & CEO** of Asr Data Raga
+- **Founder & CEO** of Asr Dade Raga
 - **Technical lead** of the RAGA Multi‑Vendor Commerce Platform
 - **7+ web/software projects** delivered since 2019
 - **Managed & trained ~30 people** throughout career
