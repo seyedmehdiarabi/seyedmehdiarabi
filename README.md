@@ -371,7 +371,7 @@ It should also be:
 
 * GitHub: [@seyedmehdiarabi](https://github.com/seyedmehdiarabi)
 * LinkedIn: [Seyed Mehdi Arabi](https://www.linkedin.com/in/seyedmehdiarabi/)
-* Instagram: [@raga.code](https://www.instagram.com/raga.code)
+* Instagram: [@raga_web](https://www.instagram.com/raga_web)
 * Company: [Asr Data Raga](https://adr.co.ir)
 
 ---
