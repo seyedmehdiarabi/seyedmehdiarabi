@@ -1,10 +1,6 @@
 # ✦ Seyed Mahdi Arabi ✦
 ## Systems Architect & Digital Product Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=✦+Software+Engineer+✦;✦+Technical+Lead+✦;✦+Digital+Product+Builder+✦;✦+AI%2FNLP+Researcher+✦" alt="Typing SVG" />
-</p>
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
   Hey, I'm Seyed Mahdi Arabi
@@ -288,18 +284,6 @@ In progress:
 
 > 💡 Navigate to your GitHub Profile Settings > "Pinned" and pin your top 6 repositories. They will automatically appear natively above this README, creating a perfect GitHub dashboard look.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmehdiarabi&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=seyedmehdiarabi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seyedmehdiarabi&label=✦+Profile+Views+✦&color=6C63FF&style=flat-square" alt="Profile Views" />
 </p>
@@ -310,12 +294,4 @@ In progress:
   </b>
   <br>
   <sub>✦ Software Engineer ✦ Technical Lead ✦ Digital Product Builder ✦ AI/NLP Researcher ✦</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" />
 </p>
