@@ -46,18 +46,18 @@
 <!-- ═══════════════════ LIVE STATS ═══════════════════ -->
 <p align="center">
   <a href="https://github.com/seyedmehdiarabi">
-    <img src="https://github-readme-stats.vercel.app/api?username=seyedmehdiarabi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0E14&title_color=7C6CFF&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub Stats" height="165" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=seyedmehdiarabi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0E14&title_color=7C6CFF&text_color=C9D1D9&icon_color=22D3EE"
+      alt="GitHub Stats"
+      height="165"
+    />
   </a>
   <a href="https://github.com/seyedmehdiarabi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmehdiarabi&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0E14&title_color=7C6CFF&text_color=C9D1D9" alt="Top Langs" height="165" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/seyedmehdiarabi">
-    <img src="https://streak-stats.demolab.com/?user=seyedmehdiarabi&theme=github-dark-blue&hide_border=true&background=0B0E14&ring=7C6CFF&fire=F5C542&currStreakLabel=7C6CFF" alt="GitHub Streak" height="165" />
-  </a>
-  <a href="https://github.com/seyedmehdiarabi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seyedmehdiarabi&theme=github_dark" alt="Profile Details" height="165" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedmehdiarabi&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0E14&title_color=7C6CFF&text_color=C9D1D9"
+      alt="Top Languages"
+      height="165"
+    />
   </a>
 </p>
 
@@ -76,7 +76,7 @@ My work sits at the intersection of **backend engineering, system architecture, 
 
 I care less about collecting technologies and more about **composing the right system from the right parts**. A working feature is not the goal. A system that remains correct under pressure, change, and growth — that is the goal.
 
-> **I don't collect technologies.  
+> **I don't collect technologies.
 > I compose systems.**
 
 </td>
